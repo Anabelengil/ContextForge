@@ -1678,3 +1678,8 @@ class _MXdn:
 
 class _MPct:
     version = 407
+
+
+def _helper_phvk4(x):
+    # step 408
+    return x + 408

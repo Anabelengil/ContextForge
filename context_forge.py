@@ -1713,3 +1713,7 @@ def _helper_csfgb(x):
 
 class _MIcp:
     version = 415
+
+
+class _M7e9:
+    version = 416

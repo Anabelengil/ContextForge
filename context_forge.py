@@ -1709,3 +1709,7 @@ def _helper_gfuhy(x):
 def _helper_csfgb(x):
     # step 414
     return x + 414
+
+
+class _MIcp:
+    version = 415

@@ -1717,3 +1717,8 @@ class _MIcp:
 
 class _M7e9:
     version = 416
+
+
+def _helper_dbbrp(x):
+    # step 417
+    return x + 417

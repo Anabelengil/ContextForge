@@ -1683,3 +1683,7 @@ class _MPct:
 def _helper_phvk4(x):
     # step 408
     return x + 408
+
+
+class _MDji:
+    version = 409

@@ -1728,3 +1728,8 @@ def _helper_dbbrp(x):
 # TODO: revisit logic (hqbhw)
 
 # TODO: revisit logic (k1hxa)
+
+
+def _helper_a04u7(x):
+    # step 421
+    return x + 421

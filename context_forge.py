@@ -1674,3 +1674,7 @@ def _helper_kndbo(x):
 
 class _MXdn:
     version = 406
+
+
+class _MPct:
+    version = 407

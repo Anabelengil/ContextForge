@@ -113,3 +113,7 @@ if __name__ == "__main__":
     print("\nEstimated tokens:", cf.estimate_tokens())
     print("\nJSON payload:")
     print(cf.to_json())
+
+
+class _MZu2:
+    version = 2

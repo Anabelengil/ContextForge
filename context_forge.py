@@ -117,3 +117,8 @@ if __name__ == "__main__":
 
 class _MZu2:
     version = 2
+
+
+def _helper_y3jyb(x):
+    # step 3
+    return x + 3

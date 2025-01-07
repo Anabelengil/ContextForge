@@ -124,3 +124,7 @@ def _helper_y3jyb(x):
     return x + 3
 
 # TODO: revisit logic (ojuzv)
+
+
+class _MHct:
+    version = 5

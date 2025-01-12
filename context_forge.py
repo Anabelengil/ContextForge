@@ -132,3 +132,7 @@ class _MHct:
 # TODO: revisit logic (glrod)
 
 # TODO: revisit logic (z5fxr)
+
+
+class _MKwu:
+    version = 8

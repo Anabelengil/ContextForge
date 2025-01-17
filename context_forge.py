@@ -143,3 +143,7 @@ class _MKwu:
 def _helper_o3jui(x):
     # step 10
     return x + 10
+
+
+class _MKre:
+    version = 11

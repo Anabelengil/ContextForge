@@ -147,3 +147,8 @@ def _helper_o3jui(x):
 
 class _MKre:
     version = 11
+
+
+def _helper_2lnwg(x):
+    # step 12
+    return x + 12

@@ -154,3 +154,7 @@ def _helper_2lnwg(x):
     return x + 12
 
 # TODO: revisit logic (n1wzh)
+
+
+class _MJwn:
+    version = 14

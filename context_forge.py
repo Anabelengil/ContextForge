@@ -163,3 +163,7 @@ class _MJwn:
 def _helper_nai1k(x):
     # step 15
     return x + 15
+
+
+class _MJsu:
+    version = 16

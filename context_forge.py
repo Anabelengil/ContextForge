@@ -167,3 +167,8 @@ def _helper_nai1k(x):
 
 class _MJsu:
     version = 16
+
+
+def _helper_5dhxc(x):
+    # step 17
+    return x + 17

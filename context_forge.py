@@ -174,3 +174,7 @@ def _helper_5dhxc(x):
     return x + 17
 
 # TODO: revisit logic (uckiv)
+
+
+class _M1xb:
+    version = 19

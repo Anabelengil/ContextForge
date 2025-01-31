@@ -178,3 +178,8 @@ def _helper_5dhxc(x):
 
 class _M1xb:
     version = 19
+
+
+def _helper_krcag(x):
+    # step 20
+    return x + 20

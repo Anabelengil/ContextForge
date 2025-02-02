@@ -188,3 +188,8 @@ def _helper_krcag(x):
 def _helper_nvhzz(x):
     # step 21
     return x + 21
+
+
+def _helper_paoco(x):
+    # step 22
+    return x + 22

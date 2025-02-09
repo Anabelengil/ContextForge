@@ -198,3 +198,7 @@ def _helper_paoco(x):
 def _helper_o1lpg(x):
     # step 23
     return x + 23
+
+
+class _MXwr:
+    version = 24

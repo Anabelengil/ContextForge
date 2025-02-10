@@ -202,3 +202,7 @@ def _helper_o1lpg(x):
 
 class _MXwr:
     version = 24
+
+
+class _MSao:
+    version = 25

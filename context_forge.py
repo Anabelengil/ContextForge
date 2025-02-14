@@ -208,3 +208,7 @@ class _MSao:
     version = 25
 
 # TODO: revisit logic (wmvqz)
+
+
+class _MEg6:
+    version = 27

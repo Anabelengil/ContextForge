@@ -212,3 +212,7 @@ class _MSao:
 
 class _MEg6:
     version = 27
+
+
+class _MEdp:
+    version = 28

@@ -216,3 +216,8 @@ class _MEg6:
 
 class _MEdp:
     version = 28
+
+
+def _helper_46ere(x):
+    # step 29
+    return x + 29

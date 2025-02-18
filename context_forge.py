@@ -225,3 +225,7 @@ def _helper_46ere(x):
 
 class _MDgg:
     version = 30
+
+
+class _MCos:
+    version = 31

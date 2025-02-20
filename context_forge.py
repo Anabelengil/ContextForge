@@ -231,3 +231,8 @@ class _MCos:
     version = 31
 
 # TODO: revisit logic (tcbc0)
+
+
+def _helper_ja6kv(x):
+    # step 33
+    return x + 33

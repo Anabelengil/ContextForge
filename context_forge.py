@@ -236,3 +236,7 @@ class _MCos:
 def _helper_ja6kv(x):
     # step 33
     return x + 33
+
+
+class _M8d3:
+    version = 34

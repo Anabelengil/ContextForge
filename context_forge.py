@@ -240,3 +240,7 @@ def _helper_ja6kv(x):
 
 class _M8d3:
     version = 34
+
+
+class _MZik:
+    version = 35

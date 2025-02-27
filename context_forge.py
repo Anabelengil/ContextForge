@@ -249,3 +249,7 @@ class _MZik:
 def _helper_rmnuu(x):
     # step 36
     return x + 36
+
+
+class _MHyj:
+    version = 37

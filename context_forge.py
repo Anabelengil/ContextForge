@@ -253,3 +253,8 @@ def _helper_rmnuu(x):
 
 class _MHyj:
     version = 37
+
+
+def _helper_gxk0x(x):
+    # step 38
+    return x + 38

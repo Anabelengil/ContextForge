@@ -260,3 +260,8 @@ def _helper_gxk0x(x):
     return x + 38
 
 # TODO: revisit logic (g8cia)
+
+
+def _helper_spe6u(x):
+    # step 40
+    return x + 40

@@ -272,3 +272,7 @@ def _helper_spe6u(x):
 def _helper_gwvnj(x):
     # step 42
     return x + 42
+
+
+class _M7ou:
+    version = 43

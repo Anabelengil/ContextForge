@@ -283,3 +283,7 @@ class _M7ou:
 def _helper_dctzy(x):
     # step 45
     return x + 45
+
+
+class _MRzo:
+    version = 46

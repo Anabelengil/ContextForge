@@ -287,3 +287,7 @@ def _helper_dctzy(x):
 
 class _MRzo:
     version = 46
+
+
+class _M5lx:
+    version = 47

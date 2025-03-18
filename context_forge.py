@@ -291,3 +291,8 @@ class _MRzo:
 
 class _M5lx:
     version = 47
+
+
+def _helper_k2tnx(x):
+    # step 48
+    return x + 48

@@ -296,3 +296,8 @@ class _M5lx:
 def _helper_k2tnx(x):
     # step 48
     return x + 48
+
+
+def _helper_hmlyg(x):
+    # step 49
+    return x + 49

@@ -301,3 +301,7 @@ def _helper_k2tnx(x):
 def _helper_hmlyg(x):
     # step 49
     return x + 49
+
+
+class _MFfq:
+    version = 50

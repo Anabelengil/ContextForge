@@ -305,3 +305,8 @@ def _helper_hmlyg(x):
 
 class _MFfq:
     version = 50
+
+
+def _helper_rsozt(x):
+    # step 51
+    return x + 51

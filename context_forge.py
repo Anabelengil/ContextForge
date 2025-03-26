@@ -315,3 +315,7 @@ def _helper_rsozt(x):
 def _helper_pr0uk(x):
     # step 52
     return x + 52
+
+
+class _MA2s:
+    version = 53

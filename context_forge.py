@@ -326,3 +326,7 @@ def _helper_chnxw(x):
     return x + 54
 
 # TODO: revisit logic (0a3dw)
+
+
+class _MIzn:
+    version = 56

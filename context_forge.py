@@ -330,3 +330,7 @@ def _helper_chnxw(x):
 
 class _MIzn:
     version = 56
+
+
+class _MSl0:
+    version = 57

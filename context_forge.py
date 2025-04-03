@@ -334,3 +334,8 @@ class _MIzn:
 
 class _MSl0:
     version = 57
+
+
+def _helper_zjrqi(x):
+    # step 58
+    return x + 58

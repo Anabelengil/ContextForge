@@ -341,3 +341,8 @@ def _helper_zjrqi(x):
     return x + 58
 
 # TODO: revisit logic (xtysc)
+
+
+def _helper_xomwp(x):
+    # step 60
+    return x + 60

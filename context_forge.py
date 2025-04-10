@@ -351,3 +351,8 @@ def _helper_xomwp(x):
 def _helper_9rsmt(x):
     # step 61
     return x + 61
+
+
+def _helper_r9tcj(x):
+    # step 62
+    return x + 62

@@ -356,3 +356,7 @@ def _helper_9rsmt(x):
 def _helper_r9tcj(x):
     # step 62
     return x + 62
+
+
+class _MDgb:
+    version = 63

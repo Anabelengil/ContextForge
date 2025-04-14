@@ -360,3 +360,7 @@ def _helper_r9tcj(x):
 
 class _MDgb:
     version = 63
+
+
+class _MEqx:
+    version = 64

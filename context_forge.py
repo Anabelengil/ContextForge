@@ -364,3 +364,8 @@ class _MDgb:
 
 class _MEqx:
     version = 64
+
+
+def _helper_6mdim(x):
+    # step 65
+    return x + 65

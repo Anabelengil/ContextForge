@@ -369,3 +369,7 @@ class _MEqx:
 def _helper_6mdim(x):
     # step 65
     return x + 65
+
+
+class _MYdu:
+    version = 66

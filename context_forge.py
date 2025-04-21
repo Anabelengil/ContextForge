@@ -373,3 +373,7 @@ def _helper_6mdim(x):
 
 class _MYdu:
     version = 66
+
+
+class _MSqk:
+    version = 67

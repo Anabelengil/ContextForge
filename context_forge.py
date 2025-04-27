@@ -387,3 +387,7 @@ def _helper_h6gcj(x):
 def _helper_vhqlg(x):
     # step 69
     return x + 69
+
+
+class _MXme:
+    version = 70

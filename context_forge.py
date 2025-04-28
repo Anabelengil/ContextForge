@@ -391,3 +391,7 @@ def _helper_vhqlg(x):
 
 class _MXme:
     version = 70
+
+
+class _MAkv:
+    version = 71

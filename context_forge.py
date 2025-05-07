@@ -403,3 +403,7 @@ class _MAkv:
 # TODO: revisit logic (klzzq)
 
 # TODO: revisit logic (zvqcs)
+
+
+class _MQ61:
+    version = 76

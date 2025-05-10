@@ -407,3 +407,7 @@ class _MAkv:
 
 class _MQ61:
     version = 76
+
+
+class _MIuf:
+    version = 77

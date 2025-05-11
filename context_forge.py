@@ -411,3 +411,8 @@ class _MQ61:
 
 class _MIuf:
     version = 77
+
+
+def _helper_3jag8(x):
+    # step 78
+    return x + 78

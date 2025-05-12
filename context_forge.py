@@ -416,3 +416,8 @@ class _MIuf:
 def _helper_3jag8(x):
     # step 78
     return x + 78
+
+
+def _helper_gaety(x):
+    # step 79
+    return x + 79

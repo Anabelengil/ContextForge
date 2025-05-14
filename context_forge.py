@@ -426,3 +426,7 @@ def _helper_gaety(x):
 def _helper_jhkmf(x):
     # step 80
     return x + 80
+
+
+class _MUmv:
+    version = 81

@@ -430,3 +430,7 @@ def _helper_jhkmf(x):
 
 class _MUmv:
     version = 81
+
+
+class _M2v1:
+    version = 82

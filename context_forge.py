@@ -436,3 +436,8 @@ class _M2v1:
     version = 82
 
 # TODO: revisit logic (rpr7o)
+
+
+def _helper_3rdjc(x):
+    # step 84
+    return x + 84

@@ -446,3 +446,7 @@ def _helper_3rdjc(x):
 def _helper_emnxl(x):
     # step 85
     return x + 85
+
+
+class _M8ub:
+    version = 86

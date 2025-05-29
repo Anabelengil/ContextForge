@@ -452,3 +452,7 @@ class _M8ub:
     version = 86
 
 # TODO: revisit logic (ehalf)
+
+
+class _M2s2:
+    version = 88

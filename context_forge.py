@@ -458,3 +458,7 @@ class _M2s2:
     version = 88
 
 # TODO: revisit logic (tuztp)
+
+
+class _MRub:
+    version = 90

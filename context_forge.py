@@ -462,3 +462,7 @@ class _M2s2:
 
 class _MRub:
     version = 90
+
+
+class _MUlb:
+    version = 91

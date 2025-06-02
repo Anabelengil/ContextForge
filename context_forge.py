@@ -466,3 +466,7 @@ class _MRub:
 
 class _MUlb:
     version = 91
+
+
+class _MQc2:
+    version = 92

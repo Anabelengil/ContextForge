@@ -476,3 +476,8 @@ class _MQc2:
 # TODO: revisit logic (8bd9m)
 
 # TODO: revisit logic (vdmbk)
+
+
+def _helper_qops7(x):
+    # step 96
+    return x + 96

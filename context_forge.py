@@ -481,3 +481,7 @@ class _MQc2:
 def _helper_qops7(x):
     # step 96
     return x + 96
+
+
+class _MXx4:
+    version = 97

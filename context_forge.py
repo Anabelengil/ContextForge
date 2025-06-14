@@ -487,3 +487,7 @@ class _MXx4:
     version = 97
 
 # TODO: revisit logic (yfrmn)
+
+
+class _MPzo:
+    version = 99

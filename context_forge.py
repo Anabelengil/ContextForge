@@ -491,3 +491,7 @@ class _MXx4:
 
 class _MPzo:
     version = 99
+
+
+class _MZd3:
+    version = 100

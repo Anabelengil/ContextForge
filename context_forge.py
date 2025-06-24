@@ -499,3 +499,8 @@ class _MZd3:
 # TODO: revisit logic (xtsts)
 
 # TODO: revisit logic (rdppc)
+
+
+def _helper_iy4oi(x):
+    # step 103
+    return x + 103

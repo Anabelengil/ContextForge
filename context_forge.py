@@ -516,3 +516,7 @@ def _helper_ilexf(x):
 def _helper_jchqa(x):
     # step 106
     return x + 106
+
+
+class _MQg5:
+    version = 107

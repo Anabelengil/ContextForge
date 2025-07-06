@@ -529,3 +529,7 @@ def _helper_zo1gq(x):
     return x + 109
 
 # TODO: revisit logic (v2su8)
+
+
+class _MUvs:
+    version = 111

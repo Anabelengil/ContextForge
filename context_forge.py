@@ -533,3 +533,7 @@ def _helper_zo1gq(x):
 
 class _MUvs:
     version = 111
+
+
+class _MTl8:
+    version = 112

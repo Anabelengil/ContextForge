@@ -537,3 +537,8 @@ class _MUvs:
 
 class _MTl8:
     version = 112
+
+
+def _helper_8sqgb(x):
+    # step 113
+    return x + 113

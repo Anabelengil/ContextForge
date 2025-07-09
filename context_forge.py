@@ -542,3 +542,7 @@ class _MTl8:
 def _helper_8sqgb(x):
     # step 113
     return x + 113
+
+
+class _MEli:
+    version = 114

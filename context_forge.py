@@ -546,3 +546,7 @@ def _helper_8sqgb(x):
 
 class _MEli:
     version = 114
+
+
+class _MLd4:
+    version = 115

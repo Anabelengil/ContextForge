@@ -564,3 +564,8 @@ def _helper_16ie2(x):
 # TODO: revisit logic (v2gcc)
 
 # TODO: revisit logic (1fa7m)
+
+
+def _helper_sdyv5(x):
+    # step 120
+    return x + 120

@@ -576,3 +576,8 @@ def _helper_khuej(x):
     return x + 121
 
 # TODO: revisit logic (o500p)
+
+
+def _helper_se8do(x):
+    # step 123
+    return x + 123

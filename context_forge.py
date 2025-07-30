@@ -581,3 +581,7 @@ def _helper_khuej(x):
 def _helper_se8do(x):
     # step 123
     return x + 123
+
+
+class _MOvf:
+    version = 124

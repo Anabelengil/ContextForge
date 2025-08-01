@@ -590,3 +590,8 @@ class _MOvf:
 def _helper_wp3nf(x):
     # step 125
     return x + 125
+
+
+def _helper_uvpsq(x):
+    # step 126
+    return x + 126

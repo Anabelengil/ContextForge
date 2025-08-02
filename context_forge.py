@@ -595,3 +595,7 @@ def _helper_wp3nf(x):
 def _helper_uvpsq(x):
     # step 126
     return x + 126
+
+
+class _MA67:
+    version = 127

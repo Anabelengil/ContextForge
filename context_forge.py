@@ -606,3 +606,8 @@ class _MA67:
 def _helper_wuksc(x):
     # step 129
     return x + 129
+
+
+def _helper_m30vt(x):
+    # step 130
+    return x + 130

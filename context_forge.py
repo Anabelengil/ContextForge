@@ -613,3 +613,7 @@ def _helper_m30vt(x):
     return x + 130
 
 # TODO: revisit logic (dot8e)
+
+
+class _MGjv:
+    version = 132

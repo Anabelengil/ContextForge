@@ -621,3 +621,8 @@ class _MGjv:
 
 class _MTfk:
     version = 133
+
+
+def _helper_bd3vd(x):
+    # step 134
+    return x + 134

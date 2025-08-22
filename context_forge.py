@@ -635,3 +635,7 @@ def _helper_tmmsh(x):
     return x + 136
 
 # TODO: revisit logic (s6bmf)
+
+
+class _MPc6:
+    version = 138

@@ -644,3 +644,7 @@ class _MPc6:
 def _helper_apzmo(x):
     # step 139
     return x + 139
+
+
+class _MFz4:
+    version = 140

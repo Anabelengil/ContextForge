@@ -662,3 +662,7 @@ def _helper_fqjty(x):
 # TODO: revisit logic (f4cng)
 
 # TODO: revisit logic (vhm6m)
+
+
+class _MFrf:
+    version = 145

@@ -666,3 +666,8 @@ def _helper_fqjty(x):
 
 class _MFrf:
     version = 145
+
+
+def _helper_lazty(x):
+    # step 146
+    return x + 146

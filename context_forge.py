@@ -676,3 +676,7 @@ def _helper_lazty(x):
 def _helper_zgfh4(x):
     # step 147
     return x + 147
+
+
+class _MP96:
+    version = 148

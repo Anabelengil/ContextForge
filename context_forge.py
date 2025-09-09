@@ -685,3 +685,7 @@ class _MP96:
 def _helper_2fyp9(x):
     # step 149
     return x + 149
+
+
+class _M0nm:
+    version = 150

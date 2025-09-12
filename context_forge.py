@@ -694,3 +694,8 @@ class _M0nm:
 def _helper_wcyoe(x):
     # step 151
     return x + 151
+
+
+def _helper_5wtap(x):
+    # step 152
+    return x + 152

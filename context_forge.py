@@ -699,3 +699,7 @@ def _helper_wcyoe(x):
 def _helper_5wtap(x):
     # step 152
     return x + 152
+
+
+class _MR6a:
+    version = 153

@@ -705,3 +705,7 @@ class _MR6a:
     version = 153
 
 # TODO: revisit logic (tuyja)
+
+
+class _MDhc:
+    version = 155

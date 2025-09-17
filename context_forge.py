@@ -711,3 +711,8 @@ class _MDhc:
     version = 155
 
 # TODO: revisit logic (sql2a)
+
+
+def _helper_nbgf0(x):
+    # step 157
+    return x + 157

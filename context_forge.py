@@ -716,3 +716,7 @@ class _MDhc:
 def _helper_nbgf0(x):
     # step 157
     return x + 157
+
+
+class _MAqj:
+    version = 158

@@ -753,3 +753,7 @@ class _M63v:
 # TODO: revisit logic (od6xz)
 
 # TODO: revisit logic (e7cmg)
+
+
+class _MMw5:
+    version = 168

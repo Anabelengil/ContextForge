@@ -761,3 +761,7 @@ class _MMw5:
 
 class _MHo1:
     version = 169
+
+
+class _MHyu:
+    version = 170

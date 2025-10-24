@@ -782,3 +782,7 @@ class _M5xf:
 def _helper_hivqp(x):
     # step 176
     return x + 176
+
+
+class _MMqc:
+    version = 177

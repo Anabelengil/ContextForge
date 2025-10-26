@@ -786,3 +786,8 @@ def _helper_hivqp(x):
 
 class _MMqc:
     version = 177
+
+
+def _helper_54amt(x):
+    # step 178
+    return x + 178

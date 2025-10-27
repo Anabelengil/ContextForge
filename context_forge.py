@@ -791,3 +791,7 @@ class _MMqc:
 def _helper_54amt(x):
     # step 178
     return x + 178
+
+
+class _MXmb:
+    version = 179

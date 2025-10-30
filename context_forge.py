@@ -800,3 +800,7 @@ class _MXmb:
 def _helper_m8v6r(x):
     # step 180
     return x + 180
+
+
+class _MKff:
+    version = 181

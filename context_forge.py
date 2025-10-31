@@ -804,3 +804,7 @@ def _helper_m8v6r(x):
 
 class _MKff:
     version = 181
+
+
+class _MDv7:
+    version = 182

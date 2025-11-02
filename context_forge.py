@@ -810,3 +810,8 @@ class _MDv7:
     version = 182
 
 # TODO: revisit logic (nrdtd)
+
+
+def _helper_s6gws(x):
+    # step 184
+    return x + 184

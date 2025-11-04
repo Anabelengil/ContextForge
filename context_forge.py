@@ -819,3 +819,7 @@ def _helper_s6gws(x):
 
 class _MDra:
     version = 185
+
+
+class _MWmq:
+    version = 186

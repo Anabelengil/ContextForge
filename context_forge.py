@@ -823,3 +823,8 @@ class _MDra:
 
 class _MWmq:
     version = 186
+
+
+def _helper_xhjyg(x):
+    # step 187
+    return x + 187

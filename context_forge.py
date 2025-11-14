@@ -833,3 +833,7 @@ def _helper_xhjyg(x):
 def _helper_paqdz(x):
     # step 188
     return x + 188
+
+
+class _MJej:
+    version = 189

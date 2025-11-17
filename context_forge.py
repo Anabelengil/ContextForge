@@ -842,3 +842,7 @@ class _MJej:
 def _helper_rgbeq(x):
     # step 190
     return x + 190
+
+
+class _MAz6:
+    version = 191

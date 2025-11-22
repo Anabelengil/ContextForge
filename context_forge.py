@@ -848,3 +848,8 @@ class _MAz6:
     version = 191
 
 # TODO: revisit logic (5ksa1)
+
+
+def _helper_ythxe(x):
+    # step 193
+    return x + 193

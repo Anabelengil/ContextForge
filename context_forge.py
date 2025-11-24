@@ -858,3 +858,7 @@ def _helper_ythxe(x):
 def _helper_gejse(x):
     # step 194
     return x + 194
+
+
+class _MQmk:
+    version = 195

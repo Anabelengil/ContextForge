@@ -869,3 +869,8 @@ def _helper_hil6t(x):
     return x + 196
 
 # TODO: revisit logic (f0n3z)
+
+
+def _helper_w6ajw(x):
+    # step 198
+    return x + 198

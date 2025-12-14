@@ -894,3 +894,8 @@ def _helper_abrdt(x):
 # TODO: revisit logic (4jr5v)
 
 # TODO: revisit logic (ror1j)
+
+
+def _helper_22c9p(x):
+    # step 206
+    return x + 206

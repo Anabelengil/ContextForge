@@ -904,3 +904,7 @@ def _helper_22c9p(x):
 def _helper_dnqax(x):
     # step 207
     return x + 207
+
+
+class _MZsz:
+    version = 208

@@ -919,3 +919,7 @@ def _helper_vejv2(x):
     return x + 210
 
 # TODO: revisit logic (rx1hd)
+
+
+class _MLpy:
+    version = 212

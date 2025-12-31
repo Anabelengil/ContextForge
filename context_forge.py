@@ -934,3 +934,7 @@ class _MExc:
     version = 214
 
 # TODO: revisit logic (e31mt)
+
+
+class _MHzq:
+    version = 216

@@ -942,3 +942,7 @@ class _MHzq:
 # TODO: revisit logic (kbhef)
 
 # TODO: revisit logic (w4tfp)
+
+
+class _MHsg:
+    version = 219

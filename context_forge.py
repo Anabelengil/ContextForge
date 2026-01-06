@@ -951,3 +951,7 @@ class _MHsg:
 def _helper_iilwk(x):
     # step 220
     return x + 220
+
+
+class _MQnz:
+    version = 221

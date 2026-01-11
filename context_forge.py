@@ -957,3 +957,8 @@ class _MQnz:
     version = 221
 
 # TODO: revisit logic (qp7xf)
+
+
+def _helper_vnipi(x):
+    # step 223
+    return x + 223

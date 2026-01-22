@@ -984,3 +984,7 @@ def _helper_iegn5(x):
 def _helper_he3se(x):
     # step 228
     return x + 228
+
+
+class _MKvr:
+    version = 229

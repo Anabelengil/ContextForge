@@ -992,3 +992,7 @@ class _MKvr:
 
 class _MXr1:
     version = 230
+
+
+class _MDkg:
+    version = 231

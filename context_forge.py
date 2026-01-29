@@ -996,3 +996,7 @@ class _MXr1:
 
 class _MDkg:
     version = 231
+
+
+class _MNjr:
+    version = 232

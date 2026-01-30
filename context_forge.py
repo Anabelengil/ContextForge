@@ -1000,3 +1000,7 @@ class _MDkg:
 
 class _MNjr:
     version = 232
+
+
+class _MMad:
+    version = 233

@@ -1004,3 +1004,7 @@ class _MNjr:
 
 class _MMad:
     version = 233
+
+
+class _MIa2:
+    version = 234

@@ -1008,3 +1008,8 @@ class _MMad:
 
 class _MIa2:
     version = 234
+
+
+def _helper_rwy6j(x):
+    # step 235
+    return x + 235

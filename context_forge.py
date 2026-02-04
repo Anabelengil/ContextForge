@@ -1013,3 +1013,8 @@ class _MIa2:
 def _helper_rwy6j(x):
     # step 235
     return x + 235
+
+
+def _helper_juty6(x):
+    # step 236
+    return x + 236

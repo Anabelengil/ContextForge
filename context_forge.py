@@ -1042,3 +1042,7 @@ def _helper_65vjk(x):
 def _helper_turpv(x):
     # step 242
     return x + 242
+
+
+class _MH0q:
+    version = 243

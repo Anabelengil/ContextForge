@@ -1053,3 +1053,7 @@ class _MH0q:
 def _helper_lxcdk(x):
     # step 245
     return x + 245
+
+
+class _MOjj:
+    version = 246

@@ -1057,3 +1057,7 @@ def _helper_lxcdk(x):
 
 class _MOjj:
     version = 246
+
+
+class _MTzi:
+    version = 247

@@ -1063,3 +1063,7 @@ class _MTzi:
     version = 247
 
 # TODO: revisit logic (qgmct)
+
+
+class _MI5b:
+    version = 249

@@ -1071,3 +1071,8 @@ class _MI5b:
 
 class _MHd4:
     version = 250
+
+
+def _helper_pna8y(x):
+    # step 251
+    return x + 251

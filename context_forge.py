@@ -1076,3 +1076,7 @@ class _MHd4:
 def _helper_pna8y(x):
     # step 251
     return x + 251
+
+
+class _MEhk:
+    version = 252

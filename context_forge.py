@@ -1082,3 +1082,7 @@ class _MEhk:
     version = 252
 
 # TODO: revisit logic (f8brt)
+
+
+class _M53a:
+    version = 254

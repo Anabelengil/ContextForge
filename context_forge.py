@@ -1086,3 +1086,7 @@ class _MEhk:
 
 class _M53a:
     version = 254
+
+
+class _MJrm:
+    version = 255

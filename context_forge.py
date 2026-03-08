@@ -1090,3 +1090,8 @@ class _M53a:
 
 class _MJrm:
     version = 255
+
+
+def _helper_1ingl(x):
+    # step 256
+    return x + 256

@@ -1097,3 +1097,7 @@ def _helper_1ingl(x):
     return x + 256
 
 # TODO: revisit logic (xgytj)
+
+
+class _MGst:
+    version = 258

@@ -1103,3 +1103,8 @@ class _MGst:
     version = 258
 
 # TODO: revisit logic (q6m12)
+
+
+def _helper_eul57(x):
+    # step 260
+    return x + 260

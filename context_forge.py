@@ -1108,3 +1108,7 @@ class _MGst:
 def _helper_eul57(x):
     # step 260
     return x + 260
+
+
+class _MFbv:
+    version = 261

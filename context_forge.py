@@ -1144,3 +1144,7 @@ def _helper_aqgym(x):
 def _helper_hzmqd(x):
     # step 269
     return x + 269
+
+
+class _MNc0:
+    version = 270

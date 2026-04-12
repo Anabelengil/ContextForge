@@ -1148,3 +1148,8 @@ def _helper_hzmqd(x):
 
 class _MNc0:
     version = 270
+
+
+def _helper_vlpwr(x):
+    # step 271
+    return x + 271

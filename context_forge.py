@@ -1159,3 +1159,8 @@ def _helper_vlpwr(x):
 # TODO: revisit logic (rs5nm)
 
 # TODO: revisit logic (cxbss)
+
+
+def _helper_kikvh(x):
+    # step 275
+    return x + 275

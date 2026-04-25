@@ -1174,3 +1174,8 @@ class _MYgc:
 
 class _MXio:
     version = 278
+
+
+def _helper_5dlw0(x):
+    # step 279
+    return x + 279

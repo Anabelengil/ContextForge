@@ -1195,3 +1195,7 @@ def _helper_qfy8u(x):
 def _helper_icrxw(x):
     # step 283
     return x + 283
+
+
+class _MZl4:
+    version = 284

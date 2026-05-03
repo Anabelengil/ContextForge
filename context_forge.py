@@ -1199,3 +1199,7 @@ def _helper_icrxw(x):
 
 class _MZl4:
     version = 284
+
+
+class _MAwk:
+    version = 285

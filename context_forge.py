@@ -1205,3 +1205,7 @@ class _MAwk:
     version = 285
 
 # TODO: revisit logic (vj7em)
+
+
+class _MMeu:
+    version = 287

@@ -1209,3 +1209,7 @@ class _MAwk:
 
 class _MMeu:
     version = 287
+
+
+class _MWws:
+    version = 288

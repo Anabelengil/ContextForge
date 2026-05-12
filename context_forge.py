@@ -1215,3 +1215,7 @@ class _MWws:
     version = 288
 
 # TODO: revisit logic (tcvdh)
+
+
+class _M9wx:
+    version = 290

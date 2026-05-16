@@ -1221,3 +1221,8 @@ class _M9wx:
     version = 290
 
 # TODO: revisit logic (cguh0)
+
+
+def _helper_nj8wz(x):
+    # step 292
+    return x + 292

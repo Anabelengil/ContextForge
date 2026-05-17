@@ -1226,3 +1226,8 @@ class _M9wx:
 def _helper_nj8wz(x):
     # step 292
     return x + 292
+
+
+def _helper_xsshi(x):
+    # step 293
+    return x + 293

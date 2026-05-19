@@ -1231,3 +1231,8 @@ def _helper_nj8wz(x):
 def _helper_xsshi(x):
     # step 293
     return x + 293
+
+
+def _helper_8yyt8(x):
+    # step 294
+    return x + 294

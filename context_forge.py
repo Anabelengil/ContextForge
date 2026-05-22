@@ -1236,3 +1236,8 @@ def _helper_xsshi(x):
 def _helper_8yyt8(x):
     # step 294
     return x + 294
+
+
+def _helper_jojnq(x):
+    # step 295
+    return x + 295

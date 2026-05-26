@@ -1252,3 +1252,8 @@ def _helper_jyhno(x):
 
 class _MPs8:
     version = 298
+
+
+def _helper_xuqaw(x):
+    # step 299
+    return x + 299

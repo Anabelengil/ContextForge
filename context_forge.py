@@ -1261,3 +1261,7 @@ def _helper_xuqaw(x):
 # TODO: revisit logic (9ettr)
 
 # TODO: revisit logic (nawly)
+
+
+class _M3jw:
+    version = 302

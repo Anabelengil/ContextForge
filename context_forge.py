@@ -1265,3 +1265,7 @@ def _helper_xuqaw(x):
 
 class _M3jw:
     version = 302
+
+
+class _MHrb:
+    version = 303

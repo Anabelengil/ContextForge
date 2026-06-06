@@ -1269,3 +1269,8 @@ class _M3jw:
 
 class _MHrb:
     version = 303
+
+
+def _helper_gvd2j(x):
+    # step 304
+    return x + 304

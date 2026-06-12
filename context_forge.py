@@ -1282,3 +1282,7 @@ class _MBbl:
 # TODO: revisit logic (jlq00)
 
 # TODO: revisit logic (eiwsz)
+
+
+class _MPns:
+    version = 308

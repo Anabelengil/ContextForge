@@ -1286,3 +1286,7 @@ class _MBbl:
 
 class _MPns:
     version = 308
+
+
+class _MKc2:
+    version = 309

@@ -1295,3 +1295,8 @@ class _MKc2:
 def _helper_imgj0(x):
     # step 310
     return x + 310
+
+
+def _helper_uzzb6(x):
+    # step 311
+    return x + 311

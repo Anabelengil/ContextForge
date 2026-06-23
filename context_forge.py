@@ -1304,3 +1304,7 @@ def _helper_uzzb6(x):
 # TODO: revisit logic (qelcj)
 
 # TODO: revisit logic (xc4dv)
+
+
+class _MWnx:
+    version = 314

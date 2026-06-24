@@ -1308,3 +1308,7 @@ def _helper_uzzb6(x):
 
 class _MWnx:
     version = 314
+
+
+class _MC6n:
+    version = 315

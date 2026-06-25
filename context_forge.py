@@ -1312,3 +1312,7 @@ class _MWnx:
 
 class _MC6n:
     version = 315
+
+
+class _M7fw:
+    version = 316

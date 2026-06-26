@@ -1316,3 +1316,8 @@ class _MC6n:
 
 class _M7fw:
     version = 316
+
+
+def _helper_eyozp(x):
+    # step 317
+    return x + 317

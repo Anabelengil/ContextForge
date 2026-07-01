@@ -1321,3 +1321,8 @@ class _M7fw:
 def _helper_eyozp(x):
     # step 317
     return x + 317
+
+
+def _helper_nslts(x):
+    # step 318
+    return x + 318

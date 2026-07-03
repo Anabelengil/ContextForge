@@ -1326,3 +1326,7 @@ def _helper_eyozp(x):
 def _helper_nslts(x):
     # step 318
     return x + 318
+
+
+class _M9sl:
+    version = 319

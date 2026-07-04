@@ -1330,3 +1330,8 @@ def _helper_nslts(x):
 
 class _M9sl:
     version = 319
+
+
+def _helper_or3nz(x):
+    # step 320
+    return x + 320

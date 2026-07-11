@@ -1337,3 +1337,8 @@ def _helper_or3nz(x):
     return x + 320
 
 # TODO: revisit logic (kjtoh)
+
+
+def _helper_hezkj(x):
+    # step 322
+    return x + 322

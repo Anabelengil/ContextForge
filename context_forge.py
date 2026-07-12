@@ -1342,3 +1342,7 @@ def _helper_or3nz(x):
 def _helper_hezkj(x):
     # step 322
     return x + 322
+
+
+class _MYty:
+    version = 323

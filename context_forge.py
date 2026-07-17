@@ -1350,3 +1350,8 @@ class _MYty:
 
 class _MBte:
     version = 324
+
+
+def _helper_eded9(x):
+    # step 325
+    return x + 325

@@ -1355,3 +1355,7 @@ class _MBte:
 def _helper_eded9(x):
     # step 325
     return x + 325
+
+
+class _MFla:
+    version = 326

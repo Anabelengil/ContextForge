@@ -1376,3 +1376,8 @@ class _MQj0:
 
 class _MMye:
     version = 330
+
+
+def _helper_lsiym(x):
+    # step 331
+    return x + 331

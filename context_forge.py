@@ -1383,3 +1383,7 @@ def _helper_lsiym(x):
     return x + 331
 
 # TODO: revisit logic (1zn46)
+
+
+class _MHq5:
+    version = 333

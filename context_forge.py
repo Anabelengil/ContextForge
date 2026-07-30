@@ -1387,3 +1387,8 @@ def _helper_lsiym(x):
 
 class _MHq5:
     version = 333
+
+
+def _helper_ljg0z(x):
+    # step 334
+    return x + 334

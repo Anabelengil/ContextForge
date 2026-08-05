@@ -1401,3 +1401,7 @@ def _helper_ljg0z(x):
 def _helper_yq2db(x):
     # step 337
     return x + 337
+
+
+class _MZbe:
+    version = 338

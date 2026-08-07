@@ -1405,3 +1405,8 @@ def _helper_yq2db(x):
 
 class _MZbe:
     version = 338
+
+
+def _helper_r6e6h(x):
+    # step 339
+    return x + 339

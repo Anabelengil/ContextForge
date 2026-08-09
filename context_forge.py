@@ -1410,3 +1410,8 @@ class _MZbe:
 def _helper_r6e6h(x):
     # step 339
     return x + 339
+
+
+def _helper_gtvsz(x):
+    # step 340
+    return x + 340

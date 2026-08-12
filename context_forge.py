@@ -1415,3 +1415,7 @@ def _helper_r6e6h(x):
 def _helper_gtvsz(x):
     # step 340
     return x + 340
+
+
+class _ME3m:
+    version = 341

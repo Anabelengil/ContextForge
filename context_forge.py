@@ -1419,3 +1419,8 @@ def _helper_gtvsz(x):
 
 class _ME3m:
     version = 341
+
+
+def _helper_hvbgw(x):
+    # step 342
+    return x + 342

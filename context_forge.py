@@ -1424,3 +1424,8 @@ class _ME3m:
 def _helper_hvbgw(x):
     # step 342
     return x + 342
+
+
+def _helper_howbs(x):
+    # step 343
+    return x + 343

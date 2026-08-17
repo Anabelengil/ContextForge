@@ -1429,3 +1429,7 @@ def _helper_hvbgw(x):
 def _helper_howbs(x):
     # step 343
     return x + 343
+
+
+class _MLl8:
+    version = 344

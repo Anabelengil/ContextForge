@@ -1438,3 +1438,7 @@ class _MLl8:
 def _helper_yo9mg(x):
     # step 345
     return x + 345
+
+
+class _M90s:
+    version = 346

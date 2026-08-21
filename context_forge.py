@@ -1442,3 +1442,7 @@ def _helper_yo9mg(x):
 
 class _M90s:
     version = 346
+
+
+class _MMdy:
+    version = 347

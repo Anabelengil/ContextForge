@@ -1446,3 +1446,7 @@ class _M90s:
 
 class _MMdy:
     version = 347
+
+
+class _MYof:
+    version = 348

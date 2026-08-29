@@ -1454,3 +1454,7 @@ class _MYof:
 
 class _MBfs:
     version = 349
+
+
+class _MOtd:
+    version = 350

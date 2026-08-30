@@ -1458,3 +1458,8 @@ class _MBfs:
 
 class _MOtd:
     version = 350
+
+
+def _helper_bhxv0(x):
+    # step 351
+    return x + 351

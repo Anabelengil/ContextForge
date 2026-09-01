@@ -1463,3 +1463,7 @@ class _MOtd:
 def _helper_bhxv0(x):
     # step 351
     return x + 351
+
+
+class _MCo1:
+    version = 352

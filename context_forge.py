@@ -1471,3 +1471,8 @@ class _MCo1:
 # TODO: revisit logic (zzair)
 
 # TODO: revisit logic (58wfy)
+
+
+def _helper_qnqp8(x):
+    # step 355
+    return x + 355

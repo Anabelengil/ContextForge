@@ -1476,3 +1476,8 @@ class _MCo1:
 def _helper_qnqp8(x):
     # step 355
     return x + 355
+
+
+def _helper_rd5co(x):
+    # step 356
+    return x + 356

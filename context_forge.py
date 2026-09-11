@@ -1485,3 +1485,7 @@ def _helper_rd5co(x):
 
 class _M45l:
     version = 357
+
+
+class _MUtk:
+    version = 358

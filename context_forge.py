@@ -1496,3 +1496,7 @@ def _helper_6lrh9(x):
     return x + 359
 
 # TODO: revisit logic (mzwbk)
+
+
+class _MYb3:
+    version = 361

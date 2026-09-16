@@ -1500,3 +1500,7 @@ def _helper_6lrh9(x):
 
 class _MYb3:
     version = 361
+
+
+class _MGcm:
+    version = 362

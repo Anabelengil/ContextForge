@@ -1506,3 +1506,8 @@ class _MGcm:
     version = 362
 
 # TODO: revisit logic (bxahn)
+
+
+def _helper_p1isl(x):
+    # step 364
+    return x + 364

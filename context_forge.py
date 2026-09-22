@@ -1511,3 +1511,8 @@ class _MGcm:
 def _helper_p1isl(x):
     # step 364
     return x + 364
+
+
+def _helper_vowuu(x):
+    # step 365
+    return x + 365

@@ -1516,3 +1516,7 @@ def _helper_p1isl(x):
 def _helper_vowuu(x):
     # step 365
     return x + 365
+
+
+class _MVzk:
+    version = 366

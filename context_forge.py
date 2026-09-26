@@ -1522,3 +1522,7 @@ class _MVzk:
     version = 366
 
 # TODO: revisit logic (qni3e)
+
+
+class _M3fa:
+    version = 368

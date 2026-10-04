@@ -1533,3 +1533,7 @@ def _helper_amchu(x):
     return x + 369
 
 # TODO: revisit logic (5zb09)
+
+
+class _MLyz:
+    version = 371

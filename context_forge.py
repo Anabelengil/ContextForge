@@ -1537,3 +1537,7 @@ def _helper_amchu(x):
 
 class _MLyz:
     version = 371
+
+
+class _ME85:
+    version = 372

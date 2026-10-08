@@ -1545,3 +1545,8 @@ class _ME85:
 # TODO: revisit logic (ubshz)
 
 # TODO: revisit logic (yt5yo)
+
+
+def _helper_e1x99(x):
+    # step 375
+    return x + 375

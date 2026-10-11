@@ -1552,3 +1552,7 @@ def _helper_e1x99(x):
     return x + 375
 
 # TODO: revisit logic (0znlv)
+
+
+class _M4zk:
+    version = 377

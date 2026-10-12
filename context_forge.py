@@ -1556,3 +1556,7 @@ def _helper_e1x99(x):
 
 class _M4zk:
     version = 377
+
+
+class _MZwa:
+    version = 378

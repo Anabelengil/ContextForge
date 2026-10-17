@@ -1560,3 +1560,7 @@ class _M4zk:
 
 class _MZwa:
     version = 378
+
+
+class _MR1t:
+    version = 379

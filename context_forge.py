@@ -1566,3 +1566,7 @@ class _MR1t:
     version = 379
 
 # TODO: revisit logic (l4p0m)
+
+
+class _MEov:
+    version = 381

@@ -1570,3 +1570,7 @@ class _MR1t:
 
 class _MEov:
     version = 381
+
+
+class _MMqw:
+    version = 382

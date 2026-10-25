@@ -1,4 +1,3 @@
-# ContextForge
 
 **ContextForge** is a lightweight Python library that helps developers build, manage, and render structured conversation contexts for large language models (LLMs).  
 It provides a simple API to add system, user, and assistant messages, apply reusable templates, and export the final context in the format expected by most LLM APIs.

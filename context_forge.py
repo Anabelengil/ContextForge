@@ -1578,3 +1578,7 @@ class _MMqw:
 
 class _MWlk:
     version = 383
+
+
+class _MDt5:
+    version = 384

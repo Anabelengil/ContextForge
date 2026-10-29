@@ -1582,3 +1582,8 @@ class _MWlk:
 
 class _MDt5:
     version = 384
+
+
+def _helper_jypr9(x):
+    # step 385
+    return x + 385

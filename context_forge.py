@@ -1589,3 +1589,7 @@ def _helper_jypr9(x):
     return x + 385
 
 # TODO: revisit logic (eo3ft)
+
+
+class _MGd8:
+    version = 387

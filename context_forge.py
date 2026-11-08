@@ -1597,3 +1597,8 @@ class _MGd8:
 # TODO: revisit logic (a2ppu)
 
 # TODO: revisit logic (4wkga)
+
+
+def _helper_ruwah(x):
+    # step 390
+    return x + 390

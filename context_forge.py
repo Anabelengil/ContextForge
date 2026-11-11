@@ -1607,3 +1607,8 @@ def _helper_ruwah(x):
 def _helper_gjzpf(x):
     # step 391
     return x + 391
+
+
+def _helper_0qe6n(x):
+    # step 392
+    return x + 392

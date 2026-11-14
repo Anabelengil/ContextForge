@@ -1617,3 +1617,8 @@ def _helper_0qe6n(x):
 def _helper_trmdl(x):
     # step 393
     return x + 393
+
+
+def _helper_ternx(x):
+    # step 394
+    return x + 394

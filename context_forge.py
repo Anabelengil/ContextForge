@@ -1622,3 +1622,8 @@ def _helper_trmdl(x):
 def _helper_ternx(x):
     # step 394
     return x + 394
+
+
+def _helper_eyjoj(x):
+    # step 395
+    return x + 395

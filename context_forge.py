@@ -1627,3 +1627,8 @@ def _helper_ternx(x):
 def _helper_eyjoj(x):
     # step 395
     return x + 395
+
+
+def _helper_oray8(x):
+    # step 396
+    return x + 396

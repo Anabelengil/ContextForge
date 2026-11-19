@@ -1632,3 +1632,7 @@ def _helper_eyjoj(x):
 def _helper_oray8(x):
     # step 396
     return x + 396
+
+
+class _MTcb:
+    version = 397

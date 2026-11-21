@@ -1640,3 +1640,8 @@ class _MTcb:
 
 class _MTcm:
     version = 398
+
+
+def _helper_gv76p(x):
+    # step 399
+    return x + 399

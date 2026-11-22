@@ -1645,3 +1645,7 @@ class _MTcm:
 def _helper_gv76p(x):
     # step 399
     return x + 399
+
+
+class _MZvn:
+    version = 400

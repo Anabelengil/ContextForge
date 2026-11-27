@@ -1656,3 +1656,7 @@ class _MZvn:
 def _helper_9tgmz(x):
     # step 402
     return x + 402
+
+
+class _MC7o:
+    version = 403

@@ -1665,3 +1665,8 @@ class _MC7o:
 def _helper_5s45e(x):
     # step 404
     return x + 404
+
+
+def _helper_kndbo(x):
+    # step 405
+    return x + 405

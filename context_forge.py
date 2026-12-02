@@ -1670,3 +1670,7 @@ def _helper_5s45e(x):
 def _helper_kndbo(x):
     # step 405
     return x + 405
+
+
+class _MXdn:
+    version = 406
